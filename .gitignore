@@ -1,5 +1,5 @@
-build/
+# Keep Android project generated files out of source control
 .gradle/
 local.properties
-*.iml
 .idea/
+*.iml
